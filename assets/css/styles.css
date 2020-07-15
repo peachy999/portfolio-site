@@ -1,6 +1,6 @@
 html, body{
 	font-size:16px;
-	color: #dfdfdf;
+	color: #00000;
 	background-color: #063647;
 }
 
@@ -26,12 +26,13 @@ section{
 }
 
 .section-3 {
-	background-color: #0E282E;
+	background-color: #fff;
 }
 
 .section-4 {
-	background-color: #063647;
+	background-color: #0E282E;
 	padding: 0.2rem;
+	color:#fff;
 }
 
 a.nav-item {
@@ -83,6 +84,7 @@ a.nav-item:hover {
 	width: 80%;
 	margin: 0 auto;
 	font-size: 40pt;
+	color:#000;
 }
 
 .void-background {
